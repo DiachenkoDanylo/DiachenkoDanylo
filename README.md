@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @DiachenkoDanylo
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java, spring framework, cubernets, docker
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming, sport
+- 🌱 I’m currently learning web-development
 - 📫 (https://t.me/DDA7651)
-- 😄 Pronouns: he/him))
-- ⚡ Fun fact: 
+- 😄 Pronouns: he/him
 
 <!---
 DiachenkoDanylo/DiachenkoDanylo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
