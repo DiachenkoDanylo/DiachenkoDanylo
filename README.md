@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiachenkoDanylo
 - 👀 I’m interested in software development, especially java
-- 🌱 Bachelor degree of information systems KPI Igor Sykorsky
+- 🌱 Bachelor degree of Information Systems and Technologies
 - 📫 Telegram (https://t.me/DDA7651)
 - 😄 Pronouns: he/him
 
